@@ -1,5 +1,16 @@
 #🇳‌🇮‌🇰‌🇭‌🇮‌🇱‌
 # Add your details here and then deploy by clicking on HEROKU Deploy button
+
+# first comend
+# git clone https://github.com/Soninkuwal/Master-Drm-txt-uploader-direct
+# cd Master-Drm-txt-uploader-direct
+
+# senad comend
+# sudo apt install docker.io -y
+# sudo docker build -t text-leech-bot-by-ashu .
+# sudo docker run -it --rm text-leech-bot-by-ashu
+
+
 import os
 from os import environ
 
