@@ -63,8 +63,8 @@ BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact"
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+3k-1zcJxINYwNGZl"),
-            InlineKeyboardButton(text="🛠️ Repo", url="https://github.com/nikhilsainiop/saini-txt-direct"),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+WHvBepxG8603NDVl"),
+            InlineKeyboardButton(text="🛠️ Repo", url="https://github.com"),
         ],
     ]
 )
